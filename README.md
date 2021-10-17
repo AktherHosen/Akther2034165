@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Akther2034165/Akther2034165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akther2034165&label=Profile%20views&color=0e75b6&style=flat" alt="akther2034165" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akther2034165" alt="akther2034165" /></a> </p>
+
 
 - 🔭 I’m currently working on [ama-jhon-ecommerce](https://ama-john-97e3f.web.app/shop)
 
