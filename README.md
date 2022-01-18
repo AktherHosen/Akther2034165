@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [ama-jhon-ecommerce](https://ama-john-97e3f.web.app/shop)
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML, CSS , JavaScript ,React**
