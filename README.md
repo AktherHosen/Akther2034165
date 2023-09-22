@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [Akther2034165](akther2034165)
+- 👨‍💻 All of my projects are available at [akther2034165](https://github.com/akther2034165)
 
 - 💬 Ask me about **Python Django**
 
