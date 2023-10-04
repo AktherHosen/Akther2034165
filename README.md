@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Akther Hosen</h1>
-<h3 align="center">Passionate backend developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Django MySQL etc. Always eager to learn and take on new challenges in the tech world.</h3>
+<h1 align="center">Hi, I'm Md Akther Hosen</h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Django**
