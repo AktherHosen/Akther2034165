@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md Akther Hosen</h1>
-  <img align="center" alt="Coding" width="100" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img styles={display:flex, justify-content:center, align-items:center} alt="Coding" width="100" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [Akther2034165](https://github.com/akther2034165?tab=repositories)
